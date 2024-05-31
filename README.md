@@ -14,6 +14,10 @@
 
 - 📫 How to reach me **iamsarath@gmail.com**
 
+<br/>
+<hr/>
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/its-sarath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="its-sarath" height="30" width="40" /></a>
@@ -103,10 +107,15 @@
   </a> 
 </p>
 
+<br/>
+<hr/>
+<br/>
+
 <div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-sarath28&show_icons=true&locale=en&layout=compact" alt="its-sarath28" /></p>
+  <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-sarath28&show_icons=true&locale=en&layout=compact" alt="its-sarath28" /></p>
 
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-sarath28&show_icons=true&locale=en" alt="its-sarath28" /></p>
+  <p style="display: inline-block; margin: 0 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=its-sarath28&show_icons=true&locale=en" alt="its-sarath28" /></p>
 
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-sarath28&" alt="its-sarath28" /></p>
+  <p style="clear: both;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-sarath28&" alt="its-sarath28" /></p>
 </div>
+
