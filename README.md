@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-web-deveoper-4563722-3817230.mp4))](https://its-sarath28.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)(https://its-sarath28.io)
 <h1 align="center">Hi 👋, I'm Sarath</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
