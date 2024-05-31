@@ -1,5 +1,5 @@
 <!--![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif) -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="100" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" width="100%" />
 <h1 align="center">Hi 👋, I'm Sarath</h1>
 <h3 align="center">A passionate Full-stack developer from Kerala, India</h3>
 
